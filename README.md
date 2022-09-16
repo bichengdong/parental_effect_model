@@ -3,4 +3,4 @@ The raw data and main codes required for the analyses in Wang et al. (2022) Fron
 
 ### Reference
 Wang L-H, Si J, Luo F-L, Dong B-C and Yu F-H (2022) Parental effects driven by resource provisioning in <i>Alternanthera
-philoxeroides</i>—A simulation case study. Frontiers in Plant Science 13:872065. doi: 10.3389/fpls.2022.872065
+philoxeroides</i>—A simulation case study. Frontiers in Plant Science 13:872065. doi: 10.3389/fpls.2022.872065 [[link]](https://www.frontiersin.org/articles/10.3389/fpls.2022.872065/full)
